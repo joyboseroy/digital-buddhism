@@ -1,8 +1,6 @@
 # Digital Buddhism: A Network Analysis of Teacher References on Reddit
 
-Companion code for the Medium article:
-[Why Alan Watts Connects More Buddhist Communities Online Than Most Buddhist Masters]
-([https://joyboseroy.medium.com/why-alan-watts-connects-more-buddhist-communities-online-than-most-buddhist-masters-63f62445d33a])
+[Why Alan Watts Connects More Buddhist Communities Online Than Most Buddhist Masters](https://joyboseroy.medium.com/why-alan-watts-connects-more-buddhist-communities-online-than-most-buddhist-masters-63f62445d33a)
 
 ## What this does
 
