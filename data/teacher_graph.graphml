@@ -1,0 +1,1187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="shared_subs" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d3" for="node" attr.name="subreddits" attr.type="string" />
+  <key id="d2" for="node" attr.name="n_subreddits" attr.type="long" />
+  <key id="d1" for="node" attr.name="mentions" attr.type="long" />
+  <key id="d0" for="node" attr.name="tradition" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Dalai Lama">
+      <data key="d0">tibetan</data>
+      <data key="d1">39</data>
+      <data key="d2">5</data>
+      <data key="d3">Buddhism,Dzogchen,TibetanBuddhism,secularbuddhism,vajrayana</data>
+    </node>
+    <node id="Longchenpa">
+      <data key="d0">tibetan</data>
+      <data key="d1">10</data>
+      <data key="d2">4</data>
+      <data key="d3">Dzogchen,TibetanBuddhism,streamentry,vajrayana</data>
+    </node>
+    <node id="Ajahn Chah">
+      <data key="d0">theravada</data>
+      <data key="d1">14</data>
+      <data key="d2">3</data>
+      <data key="d3">PureLand,streamentry,theravada</data>
+    </node>
+    <node id="Bhikkhu Bodhi">
+      <data key="d0">theravada</data>
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+      <data key="d3">streamentry,theravada</data>
+    </node>
+    <node id="Shandao">
+      <data key="d0">pureland</data>
+      <data key="d1">4</data>
+      <data key="d2">1</data>
+      <data key="d3">PureLand</data>
+    </node>
+    <node id="Shinran">
+      <data key="d0">pureland</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+      <data key="d3">PureLand</data>
+    </node>
+    <node id="Honen">
+      <data key="d0">pureland</data>
+      <data key="d1">3</data>
+      <data key="d2">1</data>
+      <data key="d3">PureLand</data>
+    </node>
+    <node id="Dilgo Khyentse">
+      <data key="d0">tibetan</data>
+      <data key="d1">14</data>
+      <data key="d2">4</data>
+      <data key="d3">Dzogchen,PureLand,TibetanBuddhism,vajrayana</data>
+    </node>
+    <node id="Alan Watts">
+      <data key="d0">zen</data>
+      <data key="d1">7</data>
+      <data key="d2">4</data>
+      <data key="d3">Chan,secularbuddhism,streamentry,zen</data>
+    </node>
+    <node id="Sheng Yen">
+      <data key="d0">zen</data>
+      <data key="d1">15</data>
+      <data key="d2">1</data>
+      <data key="d3">Chan</data>
+    </node>
+    <node id="Dahui">
+      <data key="d0">zen</data>
+      <data key="d1">4</data>
+      <data key="d2">1</data>
+      <data key="d3">Chan</data>
+    </node>
+    <node id="Xu Yun">
+      <data key="d0">zen</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">Chan</data>
+    </node>
+    <node id="Shinzen Young">
+      <data key="d0">secular</data>
+      <data key="d1">10</data>
+      <data key="d2">2</data>
+      <data key="d3">secularbuddhism,streamentry</data>
+    </node>
+    <node id="Buddhadasa">
+      <data key="d0">theravada</data>
+      <data key="d1">3</data>
+      <data key="d2">3</data>
+      <data key="d3">secularbuddhism,streamentry,theravada</data>
+    </node>
+    <node id="Sam Harris">
+      <data key="d0">secular</data>
+      <data key="d1">2</data>
+      <data key="d2">2</data>
+      <data key="d3">secularbuddhism,vipassana</data>
+    </node>
+    <node id="Thich Nhat Hanh">
+      <data key="d0">vietnamese</data>
+      <data key="d1">9</data>
+      <data key="d2">2</data>
+      <data key="d3">Buddhism,secularbuddhism</data>
+    </node>
+    <node id="Rob Burbea">
+      <data key="d0">secular</data>
+      <data key="d1">10</data>
+      <data key="d2">1</data>
+      <data key="d3">streamentry</data>
+    </node>
+    <node id="Karma Chagme">
+      <data key="d0">tibetan</data>
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+      <data key="d3">Dzogchen,vajrayana</data>
+    </node>
+    <node id="Dudjom Rinpoche">
+      <data key="d0">tibetan</data>
+      <data key="d1">16</data>
+      <data key="d2">2</data>
+      <data key="d3">Dzogchen,vajrayana</data>
+    </node>
+    <node id="Dudjom Lingpa">
+      <data key="d0">tibetan</data>
+      <data key="d1">3</data>
+      <data key="d2">3</data>
+      <data key="d3">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </node>
+    <node id="Nagarjuna">
+      <data key="d0">tibetan</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">Dzogchen</data>
+    </node>
+    <node id="Mingyur Rinpoche">
+      <data key="d0">tibetan</data>
+      <data key="d1">11</data>
+      <data key="d2">3</data>
+      <data key="d3">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </node>
+    <node id="Patrul Rinpoche">
+      <data key="d0">tibetan</data>
+      <data key="d1">5</data>
+      <data key="d2">1</data>
+      <data key="d3">Dzogchen</data>
+    </node>
+    <node id="Sharon Salzberg">
+      <data key="d0">secular</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">Dzogchen</data>
+    </node>
+    <node id="Milarepa">
+      <data key="d0">tibetan</data>
+      <data key="d1">4</data>
+      <data key="d2">2</data>
+      <data key="d3">Dzogchen,vajrayana</data>
+    </node>
+    <node id="Chogyam Trungpa">
+      <data key="d0">tibetan</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">Dzogchen</data>
+    </node>
+    <node id="Tsoknyi Rinpoche">
+      <data key="d0">tibetan</data>
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+      <data key="d3">Dzogchen,TibetanBuddhism</data>
+    </node>
+    <node id="Shantideva">
+      <data key="d0">tibetan</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">TibetanBuddhism</data>
+    </node>
+    <node id="Pema Chodron">
+      <data key="d0">tibetan</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">vajrayana</data>
+    </node>
+    <node id="Sayadaw U Tejaniya">
+      <data key="d0">theravada</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">vipassana</data>
+    </node>
+    <node id="Mahasi Sayadaw">
+      <data key="d0">theravada</data>
+      <data key="d1">6</data>
+      <data key="d2">3</data>
+      <data key="d3">streamentry,theravada,vipassana</data>
+    </node>
+    <node id="Culadasa">
+      <data key="d0">secular</data>
+      <data key="d1">18</data>
+      <data key="d2">1</data>
+      <data key="d3">streamentry</data>
+    </node>
+    <node id="Ajahn Brahm">
+      <data key="d0">theravada</data>
+      <data key="d1">3</data>
+      <data key="d2">1</data>
+      <data key="d3">streamentry</data>
+    </node>
+    <node id="Jack Kornfield">
+      <data key="d0">secular</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+      <data key="d3">streamentry</data>
+    </node>
+    <node id="Leigh Brasington">
+      <data key="d0">secular</data>
+      <data key="d1">3</data>
+      <data key="d2">1</data>
+      <data key="d3">streamentry</data>
+    </node>
+    <node id="Shunryu Suzuki">
+      <data key="d0">zen</data>
+      <data key="d1">2</data>
+      <data key="d2">1</data>
+      <data key="d3">streamentry</data>
+    </node>
+    <node id="Ajahn Sumedho">
+      <data key="d0">theravada</data>
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+      <data key="d3">streamentry,theravada</data>
+    </node>
+    <node id="Niguma">
+      <data key="d0">tibetan</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">vajrayana</data>
+    </node>
+    <node id="Thanissaro Bhikkhu">
+      <data key="d0">theravada</data>
+      <data key="d1">9</data>
+      <data key="d2">1</data>
+      <data key="d3">theravada</data>
+    </node>
+    <node id="Ajahn Maha Boowa">
+      <data key="d0">theravada</data>
+      <data key="d1">1</data>
+      <data key="d2">1</data>
+      <data key="d3">theravada</data>
+    </node>
+    <edge source="Dalai Lama" target="Longchenpa">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Dilgo Khyentse">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Alan Watts">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Shinzen Young">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Buddhadasa">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Sam Harris">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Thich Nhat Hanh">
+      <data key="d4">2</data>
+      <data key="d5">Buddhism,secularbuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Karma Chagme">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Dudjom Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Dudjom Lingpa">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Nagarjuna">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dalai Lama" target="Mingyur Rinpoche">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dalai Lama" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dalai Lama" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dalai Lama" target="Tsoknyi Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,TibetanBuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Shantideva">
+      <data key="d4">1</data>
+      <data key="d5">TibetanBuddhism</data>
+    </edge>
+    <edge source="Dalai Lama" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Dalai Lama" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Ajahn Chah">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Bhikkhu Bodhi">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Dilgo Khyentse">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Alan Watts">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Shinzen Young">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Buddhadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Rob Burbea">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Karma Chagme">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Dudjom Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Dudjom Lingpa">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Nagarjuna">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Longchenpa" target="Mingyur Rinpoche">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Longchenpa" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Longchenpa" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Longchenpa" target="Tsoknyi Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,TibetanBuddhism</data>
+    </edge>
+    <edge source="Longchenpa" target="Shantideva">
+      <data key="d4">1</data>
+      <data key="d5">TibetanBuddhism</data>
+    </edge>
+    <edge source="Longchenpa" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Longchenpa" target="Mahasi Sayadaw">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Longchenpa" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Bhikkhu Bodhi">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Shandao">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Shinran">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Honen">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Dilgo Khyentse">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Alan Watts">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Shinzen Young">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Buddhadasa">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Rob Burbea">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Mahasi Sayadaw">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Ajahn Sumedho">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Thanissaro Bhikkhu">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Ajahn Chah" target="Ajahn Maha Boowa">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Alan Watts">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Shinzen Young">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Buddhadasa">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Rob Burbea">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Mahasi Sayadaw">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Ajahn Sumedho">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Thanissaro Bhikkhu">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Bhikkhu Bodhi" target="Ajahn Maha Boowa">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Shandao" target="Shinran">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Shandao" target="Honen">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Shandao" target="Dilgo Khyentse">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Shinran" target="Honen">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Shinran" target="Dilgo Khyentse">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Honen" target="Dilgo Khyentse">
+      <data key="d4">1</data>
+      <data key="d5">PureLand</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Karma Chagme">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Dudjom Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Dudjom Lingpa">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Nagarjuna">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Mingyur Rinpoche">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Tsoknyi Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,TibetanBuddhism</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Shantideva">
+      <data key="d4">1</data>
+      <data key="d5">TibetanBuddhism</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Dilgo Khyentse" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Alan Watts" target="Sheng Yen">
+      <data key="d4">1</data>
+      <data key="d5">Chan</data>
+    </edge>
+    <edge source="Alan Watts" target="Dahui">
+      <data key="d4">1</data>
+      <data key="d5">Chan</data>
+    </edge>
+    <edge source="Alan Watts" target="Xu Yun">
+      <data key="d4">1</data>
+      <data key="d5">Chan</data>
+    </edge>
+    <edge source="Alan Watts" target="Shinzen Young">
+      <data key="d4">2</data>
+      <data key="d5">secularbuddhism,streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Buddhadasa">
+      <data key="d4">2</data>
+      <data key="d5">secularbuddhism,streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Sam Harris">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Alan Watts" target="Thich Nhat Hanh">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Alan Watts" target="Rob Burbea">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Mahasi Sayadaw">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Alan Watts" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Sheng Yen" target="Dahui">
+      <data key="d4">1</data>
+      <data key="d5">Chan</data>
+    </edge>
+    <edge source="Sheng Yen" target="Xu Yun">
+      <data key="d4">1</data>
+      <data key="d5">Chan</data>
+    </edge>
+    <edge source="Dahui" target="Xu Yun">
+      <data key="d4">1</data>
+      <data key="d5">Chan</data>
+    </edge>
+    <edge source="Shinzen Young" target="Buddhadasa">
+      <data key="d4">2</data>
+      <data key="d5">secularbuddhism,streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Sam Harris">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Shinzen Young" target="Thich Nhat Hanh">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Shinzen Young" target="Rob Burbea">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Mahasi Sayadaw">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shinzen Young" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Sam Harris">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Buddhadasa" target="Thich Nhat Hanh">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Buddhadasa" target="Rob Burbea">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Mahasi Sayadaw">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Buddhadasa" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Buddhadasa" target="Ajahn Sumedho">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Buddhadasa" target="Thanissaro Bhikkhu">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Buddhadasa" target="Ajahn Maha Boowa">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Sam Harris" target="Thich Nhat Hanh">
+      <data key="d4">1</data>
+      <data key="d5">secularbuddhism</data>
+    </edge>
+    <edge source="Sam Harris" target="Sayadaw U Tejaniya">
+      <data key="d4">1</data>
+      <data key="d5">vipassana</data>
+    </edge>
+    <edge source="Sam Harris" target="Mahasi Sayadaw">
+      <data key="d4">1</data>
+      <data key="d5">vipassana</data>
+    </edge>
+    <edge source="Rob Burbea" target="Mahasi Sayadaw">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Rob Burbea" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Rob Burbea" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Rob Burbea" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Rob Burbea" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Rob Burbea" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Rob Burbea" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Karma Chagme" target="Dudjom Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Karma Chagme" target="Dudjom Lingpa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Karma Chagme" target="Nagarjuna">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Karma Chagme" target="Mingyur Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Karma Chagme" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Karma Chagme" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Karma Chagme" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Karma Chagme" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Karma Chagme" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Karma Chagme" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Karma Chagme" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Dudjom Lingpa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Nagarjuna">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Mingyur Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Dudjom Rinpoche" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Nagarjuna">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Mingyur Rinpoche">
+      <data key="d4">3</data>
+      <data key="d5">Dzogchen,TibetanBuddhism,vajrayana</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Tsoknyi Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,TibetanBuddhism</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Shantideva">
+      <data key="d4">1</data>
+      <data key="d5">TibetanBuddhism</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Dudjom Lingpa" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Nagarjuna" target="Mingyur Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Nagarjuna" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Nagarjuna" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Nagarjuna" target="Milarepa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Nagarjuna" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Nagarjuna" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Patrul Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Milarepa">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,vajrayana</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Tsoknyi Rinpoche">
+      <data key="d4">2</data>
+      <data key="d5">Dzogchen,TibetanBuddhism</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Shantideva">
+      <data key="d4">1</data>
+      <data key="d5">TibetanBuddhism</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Mingyur Rinpoche" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Patrul Rinpoche" target="Sharon Salzberg">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Patrul Rinpoche" target="Milarepa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Patrul Rinpoche" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Patrul Rinpoche" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Sharon Salzberg" target="Milarepa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Sharon Salzberg" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Sharon Salzberg" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Milarepa" target="Chogyam Trungpa">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Milarepa" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Milarepa" target="Pema Chodron">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Milarepa" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Chogyam Trungpa" target="Tsoknyi Rinpoche">
+      <data key="d4">1</data>
+      <data key="d5">Dzogchen</data>
+    </edge>
+    <edge source="Tsoknyi Rinpoche" target="Shantideva">
+      <data key="d4">1</data>
+      <data key="d5">TibetanBuddhism</data>
+    </edge>
+    <edge source="Pema Chodron" target="Niguma">
+      <data key="d4">1</data>
+      <data key="d5">vajrayana</data>
+    </edge>
+    <edge source="Sayadaw U Tejaniya" target="Mahasi Sayadaw">
+      <data key="d4">1</data>
+      <data key="d5">vipassana</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Culadasa">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Ajahn Sumedho">
+      <data key="d4">2</data>
+      <data key="d5">streamentry,theravada</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Thanissaro Bhikkhu">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Mahasi Sayadaw" target="Ajahn Maha Boowa">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Culadasa" target="Ajahn Brahm">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Culadasa" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Culadasa" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Culadasa" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Culadasa" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Brahm" target="Jack Kornfield">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Brahm" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Brahm" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Brahm" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Jack Kornfield" target="Leigh Brasington">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Jack Kornfield" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Jack Kornfield" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Leigh Brasington" target="Shunryu Suzuki">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Leigh Brasington" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Shunryu Suzuki" target="Ajahn Sumedho">
+      <data key="d4">1</data>
+      <data key="d5">streamentry</data>
+    </edge>
+    <edge source="Ajahn Sumedho" target="Thanissaro Bhikkhu">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Ajahn Sumedho" target="Ajahn Maha Boowa">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+    <edge source="Thanissaro Bhikkhu" target="Ajahn Maha Boowa">
+      <data key="d4">1</data>
+      <data key="d5">theravada</data>
+    </edge>
+  </graph>
+</graphml>

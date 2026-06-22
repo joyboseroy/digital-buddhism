@@ -1,0 +1,41 @@
+teacher,tradition,mentions,n_subreddits,degree_centrality,betweenness_centrality,closeness_centrality
+Longchenpa,tibetan,10,4,0.7179,0.2692,0.78
+Alan Watts,zen,7,4,0.4872,0.1742,0.661
+Ajahn Chah,theravada,14,3,0.4872,0.1266,0.661
+Dalai Lama,tibetan,39,5,0.5128,0.1005,0.6724
+Dilgo Khyentse,tibetan,14,4,0.4872,0.0724,0.619
+Mahasi Sayadaw,theravada,6,3,0.4359,0.0484,0.6393
+Nagarjuna,tibetan,1,1,0.3077,0.0359,0.5417
+Sharon Salzberg,secular,1,1,0.3077,0.0359,0.5417
+Chogyam Trungpa,tibetan,1,1,0.3077,0.0359,0.5417
+Patrul Rinpoche,tibetan,5,1,0.3077,0.0359,0.5417
+Buddhadasa,theravada,3,3,0.4615,0.0336,0.65
+Pema Chodron,tibetan,1,1,0.2308,0.0294,0.52
+Niguma,tibetan,1,1,0.2308,0.0294,0.52
+Shinzen Young,secular,10,2,0.4103,0.0284,0.629
+Sam Harris,secular,2,2,0.1795,0.0222,0.527
+Shantideva,tibetan,1,1,0.1538,0.0186,0.5
+Ajahn Sumedho,theravada,3,2,0.3846,0.0125,0.619
+Bhikkhu Bodhi,theravada,3,2,0.3846,0.0125,0.619
+Tsoknyi Rinpoche,tibetan,3,2,0.3333,0.0055,0.5493
+Ajahn Brahm,theravada,3,1,0.3333,0.0045,0.6
+Shunryu Suzuki,zen,2,1,0.3333,0.0045,0.6
+Leigh Brasington,secular,3,1,0.3333,0.0045,0.6
+Culadasa,secular,18,1,0.3333,0.0045,0.6
+Rob Burbea,secular,10,1,0.3333,0.0045,0.6
+Jack Kornfield,secular,2,1,0.3333,0.0045,0.6
+Thanissaro Bhikkhu,theravada,9,1,0.1538,0.0035,0.4432
+Ajahn Maha Boowa,theravada,1,1,0.1538,0.0035,0.4432
+Mingyur Rinpoche,tibetan,11,3,0.3846,0.0028,0.5652
+Dudjom Lingpa,tibetan,3,3,0.3846,0.0028,0.5652
+Karma Chagme,tibetan,3,2,0.359,0.0022,0.5571
+Milarepa,tibetan,4,2,0.359,0.0022,0.5571
+Dudjom Rinpoche,tibetan,16,2,0.359,0.0022,0.5571
+Thich Nhat Hanh,vietnamese,9,2,0.1282,0.001,0.5132
+Honen,pureland,3,1,0.1026,0.0,0.4875
+Shandao,pureland,4,1,0.1026,0.0,0.4875
+Shinran,pureland,2,1,0.1026,0.0,0.4875
+Sheng Yen,zen,15,1,0.0769,0.0,0.4105
+Xu Yun,zen,1,1,0.0769,0.0,0.4105
+Dahui,zen,4,1,0.0769,0.0,0.4105
+Sayadaw U Tejaniya,theravada,1,1,0.0513,0.0,0.4062

@@ -1,0 +1,16 @@
+teacher,tradition,mentions,n_subreddits,degree_centrality,betweenness_centrality,closeness_centrality
+Longchenpa,tibetan,10,4,0.7179,0.2692,0.78
+Alan Watts,zen,7,4,0.4872,0.1742,0.661
+Ajahn Chah,theravada,14,3,0.4872,0.1266,0.661
+Dalai Lama,tibetan,39,5,0.5128,0.1005,0.6724
+Dilgo Khyentse,tibetan,14,4,0.4872,0.0724,0.619
+Mahasi Sayadaw,theravada,6,3,0.4359,0.0484,0.6393
+Nagarjuna,tibetan,1,1,0.3077,0.0359,0.5417
+Sharon Salzberg,secular,1,1,0.3077,0.0359,0.5417
+Chogyam Trungpa,tibetan,1,1,0.3077,0.0359,0.5417
+Patrul Rinpoche,tibetan,5,1,0.3077,0.0359,0.5417
+Buddhadasa,theravada,3,3,0.4615,0.0336,0.65
+Pema Chodron,tibetan,1,1,0.2308,0.0294,0.52
+Niguma,tibetan,1,1,0.2308,0.0294,0.52
+Shinzen Young,secular,10,2,0.4103,0.0284,0.629
+Sam Harris,secular,2,2,0.1795,0.0222,0.527
